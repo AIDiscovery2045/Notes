@@ -13,7 +13,7 @@
 AI实时换脸工具
 
 📄 笔记  
-https://github.com/AIDiscovery2045/2026/001-deep-live-cam
+https://github.com/AIDiscovery2045/2026/001-deep-live-cam.md
 
 ---
 
