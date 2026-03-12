@@ -2,8 +2,8 @@
 
 ## 下载资源
 
-- 百度网盘: [点击下载](https://pan.baidu.com/s/1yc3rgo_5bMU8fLVGNWUzEA?pwd=rwc1)  
-- 谷歌网盘: [点击下载](https://drive.google.com/drive/folders/1QooadBVwXfpRwxTrEwYmuUDSB4DWzegG?usp=drive_link)  
+- [百度网盘] (https://pan.baidu.com/s/1yc3rgo_5bMU8fLVGNWUzEA?pwd=rwc1)  
+- [谷歌网盘] [点击下载](https://drive.google.com/drive/folders/1QooadBVwXfpRwxTrEwYmuUDSB4DWzegG?usp=drive_link)  
 
 ---
 
