@@ -37,9 +37,12 @@
 ```bash
 # 创建虚拟环境
 python -m venv venv
-
+```
+```bash
 # 激活虚拟环境 (Windows)
 call venv\scripts\activate
-
+```
+```bash
 # 安装依赖
 pip install -r requirements.txt
+```
