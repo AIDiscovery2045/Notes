@@ -2,7 +2,7 @@
 
 ## 视频中共享的安装包
 
-- [百度网盘](https://pan.baidu.com/s/1yc3rgo_5bMU8fLVGNWUzEA?pwd=rwc1)  
+- <a href="https://pan.baidu.com/s/1yc3rgo_5bMU8fLVGNWUzEA?pwd=rwc1" target="_blank">百度网盘</a>
 - [谷歌网盘](https://drive.google.com/drive/folders/1QooadBVwXfpRwxTrEwYmuUDSB4DWzegG?usp=drive_link)  
 
 ---
