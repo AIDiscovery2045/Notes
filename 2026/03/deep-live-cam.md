@@ -1,6 +1,6 @@
 # Deep-Live-Cam 本地安装指南
 
-## 下载资源
+## 视频中共享的安装包
 
 - [百度网盘](https://pan.baidu.com/s/1yc3rgo_5bMU8fLVGNWUzEA?pwd=rwc1)  
 - [谷歌网盘](https://drive.google.com/drive/folders/1QooadBVwXfpRwxTrEwYmuUDSB4DWzegG?usp=drive_link)  
