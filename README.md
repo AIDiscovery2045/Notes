@@ -1,26 +1,17 @@
-# AI Video Notes
+## 20260301 Deep-Live-Cam本地部署
+单图实时换脸工具
+视频
 
-这里是我每期视频的技术笔记和教程整理。
-
-所有内容均来自我的视频教程。
-
----
-
-# 视频教程
-
-## 001 Deep Live Cam
-
-AI实时换脸工具
-
-📄 笔记  
+笔记  
 https://github.com/AIDiscovery2045/2026/001-deep-live-cam.md
 
 ---
 
-## 002 FaceFusion
-
+## 20260302 FaceFusion
 高质量AI换脸工具
+视频
 
+笔记  
 📄 笔记  
 https://github.com/wangerAI/ai-video-notes/tree/main/videos/002-facefusion
 
