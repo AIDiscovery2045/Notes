@@ -34,15 +34,15 @@
 ---
 
 ## 四、安装依赖包
-# 创建虚拟环境
+1、**创建虚拟环境**
 ```bash
 python -m venv venv
 ```
-# 激活虚拟环境 (Windows)
+2、**激活虚拟环境**
 ```bash
 call venv\scripts\activate
 ```
-# 安装依赖
+3、**安装依赖包**
 ```bash
 pip install -r requirements.txt
 ```
