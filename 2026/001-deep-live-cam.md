@@ -1,4 +1,4 @@
-# Deep-Live-Cam 本地安装指南
+# Deep-Live-Cam 本地安装
 
 ## 一、检查更新显卡驱动
 
