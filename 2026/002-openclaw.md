@@ -1,6 +1,6 @@
-# OpenClaw安全部署与彻底卸载教程
+# OpenClaw本地部署与完全卸载教程（Windows版）
 
-## 1、下载安装Node.js
+## 一、下载安装Node.js
 
 Node.js版本 ≥ 22 [下载链接](https://nodejs.org/en/download)
 
@@ -14,7 +14,7 @@ npm --version
 ```
 ---
 
-## 2、下载安装Git工具
+## 二、下载安装Git工具
 Git官网下载最新安装程序  [下载链接](https://git-scm.com/install/windows)
 
 检查Git是否成功安装
@@ -50,7 +50,7 @@ netstat -ano | findstr 18789
 taskkill /PID 最后一列ID /F
 ```
 
-3.**安装OpenClaw**
+3.**PowerShell里执行安装OpenClaw指令**
 ```
 iwr -useb https://openclaw.ai/install.ps1 | iex
 ```
