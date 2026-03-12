@@ -1,5 +1,5 @@
 # Deep-Live-Cam 本地安装指南
-https://youtu.be/OUCJ8BQfFDU
+
 ## 一、检查更新显卡驱动
 
 确保英伟达显卡驱动版本 ≥ 525。
