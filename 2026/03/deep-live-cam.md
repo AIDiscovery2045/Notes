@@ -34,6 +34,12 @@
 ---
 
 ## 四、安装依赖包
-1、创建虚拟环境：`python -m venv venv`  
-2、激活虚拟环境（Windows）：`call venv\scripts\activate`  
-3、安装依赖：`pip install -r requirements.txt`
+```bash
+# 创建虚拟环境
+python -m venv venv
+
+# 激活虚拟环境 (Windows)
+call venv\scripts\activate
+
+# 安装依赖
+pip install -r requirements.txt
