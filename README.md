@@ -13,7 +13,7 @@
 AI实时换脸工具
 
 📄 笔记  
-https://github.com/wangerAI/ai-video-notes/tree/main/videos/001-deep-live-cam
+https://github.com/AIDiscovery2045/2026/001-deep-live-cam
 
 ---
 
