@@ -33,14 +33,6 @@ git --version
 ```
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 ```
-国内用户，推荐设置npm镜像地址
-```
-npm config set registry  https://registry.npmmirror.com
-```
-(恢复npm官方地址)
-```
-npm config set registry https://registry.npmjs.org
-```
 检查18789端口是否被占用
 ```
 netstat -ano | findstr 18789
